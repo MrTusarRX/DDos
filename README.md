@@ -27,6 +27,8 @@ To set up and run the script on Linux, follow these steps:
    cd DDos
    chmod +x Linux.sh
   ./Linux.sh
+
+  
   ```
 
 
