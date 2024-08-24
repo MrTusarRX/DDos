@@ -26,7 +26,7 @@ To set up and run the script on Linux, follow these steps:
    git clone https://github.com/MrTusarRX/DDos
    cd DDos
    chmod +x Linux.sh
-   ./Linux.sh
+   sudo bash Linux.sh
 
 ## End
 ## if you want to down advance server then you should use linux its powerful then termux
