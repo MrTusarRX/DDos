@@ -29,6 +29,6 @@ To set up and run the script on Linux, follow these steps:
    ./Linux.sh
 
 ## End
-
+## if you want to down advance server then user linux its powerful then termux
 
 
